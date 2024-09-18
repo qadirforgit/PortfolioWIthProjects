@@ -1,0 +1,97 @@
+[
+
+
+    {
+        "name": "React-Projects",
+        "desc": "online shopping website. like online supermarket",
+        "image": "CityBazaar",
+        "category": "mern",
+        "links": {
+            "view": "https://citybazaronline.com/",
+            "code": "#"
+        }
+        
+    },
+
+    {
+        "name": "JavaScript Projects Website",
+        "desc": "Women wears",
+        "image": "Screenshot",
+        "category": "basicweb",
+        "links": {
+            "view": "https://thedeeva.com/",
+            "code": "#"
+        }
+    },
+
+
+    {
+        "name": "Website",
+        "desc": "related to Home designs! must visit nakshastore.com",
+        "image": "Naksha",
+        "category": "basicweb",
+        "links": {
+            "view": "https://www.nakshastore.com/",
+            "code": "#"
+        }
+    },
+
+
+    {
+        "name": "Bootstrap Website",
+        "desc": "Online education and reading books and related relegious book.",
+        "image": "Gurukul",
+        "category": "basicweb",
+        "links": {
+            "view": "https://onlinegurukul.org/",
+            "code": "#"
+        }
+    },
+
+    {
+        "name": "Website",
+        "desc": "Wadhwani Infotech Offers Native mobile Application  development.",
+        "image": "wadhwani",
+        "category": "basicweb",
+        "links": {
+            "view": "https://wadhwaniinfotech.com/",
+            "code": "#"
+        }
+    },
+
+    {
+        "name": "Website",
+        "desc": "UsTaxAlly is committed to keeping your information secure.",
+        "image": "Uxtaxally",
+        "category": "basicweb",
+        "links": {
+            "view": "https://ustaxally.com/",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Website",
+        "desc": "Wedding clothes shopping website",
+        "image": "Shoab",
+        "category": "basicweb",
+        "links": {
+            "view": "https://shoaibshah.in/",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Website",
+        "desc": "Related to architecture and design of Home",
+        "image": "Architect",
+        "category": "basicweb",
+        "links": {
+            "view": "https://architecture.nakshastore.com/",
+            "code": "#"
+        }
+    }
+
+
+
+
+
+]
